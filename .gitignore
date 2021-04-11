@@ -150,8 +150,10 @@ dmypy.json
 .pytype/
 
 # operating system-related files
-*.DS_Store #file properties cache/storage on macOS
-Thumbs.db #thumbnail cache on Windows
+# file properties cache/storage on macOS
+*.DS_Store
+# thumbnail cache on Windows
+Thumbs.db
 
 # profiling data
 .prof
@@ -159,10 +161,6 @@ Thumbs.db #thumbnail cache on Windows
 
 ### vscode ###
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/django,vscode
