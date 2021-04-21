@@ -10,6 +10,8 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial03/
 
 https://docs.djangoproject.com/en/3.1/intro/tutorial04/
 
+https://docs.djangoproject.com/en/3.1/intro/tutorial05/
+
 ## Todo
 
-https://docs.djangoproject.com/en/3.1/intro/tutorial05/
+https://docs.djangoproject.com/en/3.1/intro/tutorial06/
