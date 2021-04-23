@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial04/
 
 https://docs.djangoproject.com/en/3.1/intro/tutorial05/
 
+https://docs.djangoproject.com/en/3.1/intro/tutorial06/
+
 ## Todo
 
-https://docs.djangoproject.com/en/3.1/intro/tutorial06/
+https://docs.djangoproject.com/en/3.1/intro/tutorial07/
