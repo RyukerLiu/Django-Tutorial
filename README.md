@@ -18,6 +18,4 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial07/
 
 https://docs.djangoproject.com/en/3.1/intro/whatsnext/
 
-## Todo
-
 https://docs.djangoproject.com/en/3.1/intro/reusable-apps/
